@@ -1,0 +1,1 @@
+For wired PCB, to update, please download Zadig first. Press the B key and connect the PCB to your device using a USB-C cable. If you can find “NEO FIRMWARE UPGRADE” in the device list, download the v1.0 firmware. If not, download the v2.0 firmware.
