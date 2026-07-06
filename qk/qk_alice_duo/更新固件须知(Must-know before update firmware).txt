@@ -1,0 +1,8 @@
+固件在1.0.2以下的用户，务必先升级至1.0.2(固件下载链接 https://pan.quark.cn/s/e83f19a135b9)， 再升级本版本，避免造成数据紊乱
+V1.0.6更新内容（固件下载链接 https://novel.qwertykeys.com/keyboard/QK%20ALICE%20DUO）：
+1. 修复了无线模式丢键
+
+
+Users with firmware versions below 1.0.2 must first upgrade to v1.0.2(Firmware download link https://pan.quark.cn/s/e83f19a135b9) before installing this version to avoid data corruption.
+The updated contain of v1.0.6(Firmware download link  https://novel.qwertykeys.com/keyboard/QK%20ALICE%20DUO):
+1. Fixed a bug related to stuttering keys/missing output.
